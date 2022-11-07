@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moviewala/static/css/main.176228db.css",
+    "main.js": "/moviewala/static/js/main.574066fe.js",
+    "static/js/787.7d43bf99.chunk.js": "/moviewala/static/js/787.7d43bf99.chunk.js",
+    "index.html": "/moviewala/index.html",
+    "main.176228db.css.map": "/moviewala/static/css/main.176228db.css.map",
+    "main.574066fe.js.map": "/moviewala/static/js/main.574066fe.js.map",
+    "787.7d43bf99.chunk.js.map": "/moviewala/static/js/787.7d43bf99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176228db.css",
+    "static/js/main.574066fe.js"
+  ]
+}
